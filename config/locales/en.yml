@@ -1,2 +1,23 @@
 en:
-  hello: "Hello world"
+  static_pages:
+    about: 
+      title: "About"
+      title1: "Ruby on Rails Tutorial"
+      title2: "is a"
+      title3: "book"
+      title4: "and"
+      title5: "screencast series"
+      title6: "to teach web development with"
+      title7: "Ruby on Rails"
+      title8: "This is the sample application for the tutorial."
+      title9: "The"
+    home:
+      title: "Home"
+      title2: "This is the home page for the"
+      title3: "sample application."
+    help:
+      title: "Help" 
+      title2: "is a"
+      title3: "book"
+      title4: "and"
+      title5: "screencast series"
