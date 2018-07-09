@@ -1,0 +1,23 @@
+jp:
+  static_pages:
+    about: 
+      title: "アバウト"
+      title1: "Ruby on Rails Tutorial"
+      title2: "は"
+      title3: "本"
+      title4: "そして"
+      title5: "スクリーンキャストシリーズ"
+      title6: "Web開発を教える"
+      title7: "Ruby on Rails"
+      title8: "これはチュートリアルのサンプルアプリケーションです。"
+      title9: "これの"
+    home:
+      title: "ホーム"
+      title2: "そして"
+      title3: "スクリーンキャストシリーズ"
+    help:
+      title: "ヘルプ" 
+      title2: "は"
+      title3: "本"
+      title4: "そして"
+      title5: "スクリーンキャストシリーズ"

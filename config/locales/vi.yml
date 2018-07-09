@@ -1,0 +1,23 @@
+vi:
+  static_pages:
+    about: 
+      title: "Khai Quat"
+      title1: "Ruby on Rails Huong Dan"
+      title2: "la mot"
+      title3: "quyen sach"
+      title4: "va"
+      title5: "mot chuoi screencast "
+      title6: "để dạy phát triển web với"
+      title7: "Ruby on Rails"
+      title8: "Đây là ứng dụng mẫu cho hướng dẫn."
+      title9: "Đây"
+    home:
+      title: "Trang Chu"
+      title2: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
+      title3: "Phần trợ giúp Hướng dẫn Rails"
+    help:
+      title: "Tro Giup" 
+      title2: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
+      title3: "Phần trợ giúp Hướng dẫn Rails"
+      title4: "Để được trợ giúp về ứng dụng mẫu này, hãy xem"
+      title5: "sách"
