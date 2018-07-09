@@ -1,4 +1,5 @@
 en:
+  title: "Ruby on Rails Tutorial Sample App"
   static_pages:
     about: 
       title: "About"
@@ -21,3 +22,9 @@ en:
       title3: "book"
       title4: "and"
       title5: "screencast series"
+  layouts:
+    application:
+      title: "Home"
+      title1: "Help"
+      title2: "Log in"   
+      

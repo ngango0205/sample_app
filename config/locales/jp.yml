@@ -1,4 +1,5 @@
 jp:
+  title: "チュートリアルサンプルアプリケーション"          
   static_pages:
     about: 
       title: "アバウト"
@@ -21,3 +22,9 @@ jp:
       title3: "本"
       title4: "そして"
       title5: "スクリーンキャストシリーズ"
+  layouts:
+    application:
+      title: "ホ ー ム"
+      title1: "ヘルプ"
+      title2: "ログイン"    
+ 
