@@ -1,4 +1,5 @@
 vi:
+  title: "Ứng dụng mẫu hướng dẫn Ruby on Rails"     
   static_pages:
     about: 
       title: "Khai Quat"
@@ -21,3 +22,9 @@ vi:
       title3: "Phần trợ giúp Hướng dẫn Rails"
       title4: "Để được trợ giúp về ứng dụng mẫu này, hãy xem"
       title5: "sách"
+  layouts:
+    application:
+      title: "Trang Chủ "
+      title1: "Trợ Giúp"
+      title2: "Đăng Nhập"    
+           
