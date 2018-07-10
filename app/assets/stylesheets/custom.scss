@@ -6,6 +6,13 @@ $colour2: #fff;
 $colour3: #222;
 $colour4: #555;
 $colour5: #eaeaea;
+$gray-medium-light: #eaeaea;
+
+@mixin box_sizing {
+  -moz-box-sizing:    border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing:         border-box;
+}
 
 body {
   padding-top: 60px;
@@ -95,4 +102,12 @@ footer ul {
 footer ul li {
   float: left;
   margin-left: 15px;
+}
+
+.debug_dump {
+  clear: both;
+  float: left;
+  width: 100%;
+  margin-top: 45px;
+  @include box_sizing;
 }

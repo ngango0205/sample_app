@@ -13,11 +13,11 @@ vi:
       title8: "Đây là ứng dụng mẫu cho hướng dẫn."
       title9: "Đây"
     home:
-      title: "Trang Chu"
+      title: "Trang chủ"
       title2: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
       title3: "Phần trợ giúp Hướng dẫn Rails"
       title4: "Chào mừng bạn đến với Sample App"
-      title5: "Tro den"
+      title5: "Đăng nhập"
     help:
       title: "Tro Giup" 
       title2: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
