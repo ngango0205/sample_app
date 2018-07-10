@@ -12,19 +12,36 @@ en:
       title7: "Ruby on Rails"
       title8: "This is the sample application for the tutorial."
       title9: "The"
+      
     home:
       title: "Home"
       title2: "This is the home page for the"
       title3: "sample application."
+      title4: "Welcome to Sample App"
+      title5: "Link to"
+
     help:
       title: "Help" 
       title2: "is a"
       title3: "book"
       title4: "and"
       title5: "screencast series"
+    contact:
+      title: "Contact"
+      title1: "Contact the Ruby on Rails Tutorial about the sample app at the"
+      title2: "Contact Page"
+  
+  users:
+    new:
+      title: "Signup"
+      title1: "This will be a signup page for new users."
+
   layouts:
-    application:
+    header:
       title: "Home"
       title1: "Help"
-      title2: "Log in"   
-      
+      title2: "Log in" 
+    footer:
+      title: "About"
+      title1: "Contact"
+      title2: "News"

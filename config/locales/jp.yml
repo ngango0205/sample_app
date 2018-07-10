@@ -16,15 +16,28 @@ jp:
       title: "ホーム"
       title2: "そして"
       title3: "スクリーンキャストシリーズ"
+      title4: "サンプルアプリケーションへようこそ"
+      title5: "スクリ"
     help:
       title: "ヘルプ" 
       title2: "は"
       title3: "本"
       title4: "そして"
       title5: "スクリーンキャストシリーズ"
+    contact: 
+      title: "連絡先"
+      title1: "サンプルアプリケーションについてのRuby on Railsチュートリアルには"
+      title2: "Contact Page"
+  users:
+    new:    
+      title: "サインアップ"
+      title1: "これは新規ユーザーのサインアップページになります。"
   layouts:
-    application:
+    header:
       title: "ホ ー ム"
       title1: "ヘルプ"
-      title2: "ログイン"    
- 
+      title2: "ログイン"
+    footer:
+      title: "アバウト"
+      title1: "コンタクト"
+      title2: "ニュース" 

@@ -16,15 +16,28 @@ vi:
       title: "Trang Chu"
       title2: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
       title3: "Phần trợ giúp Hướng dẫn Rails"
+      title4: "Chào mừng bạn đến với Sample App"
+      title5: "Tro den"
     help:
       title: "Tro Giup" 
       title2: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
       title3: "Phần trợ giúp Hướng dẫn Rails"
       title4: "Để được trợ giúp về ứng dụng mẫu này, hãy xem"
       title5: "sách"
+    contact:
+      title: "Liên hệ"
+      title1: "Liên hệ với Ruby on Rails Tutorial về ứng dụng mẫu tại"
+      title2: "Trang lien lac"
+  users:  
+    new:
+      title: "Dang Nhap"
+      title1: "Đây sẽ là trang đăng ký cho người dùng mới."
   layouts:
-    application:
+    header:
       title: "Trang Chủ "
       title1: "Trợ Giúp"
-      title2: "Đăng Nhập"    
-           
+      title2: "Đăng Nhập"
+    footer:
+      title: "Khái quát"
+      title1: "Liên hệ"
+      title2: "Tin tức"

@@ -1,8 +1,13 @@
-<% provide:title, t(".title") %>
-<h1><%= t ".title" %></h1>
-<p>
-  <%= t ".title2" %>
-  <%= link_to "Ruby on Rails Tutorial", "http://www.railstutorial.org/" %>
-  <%= t ".title3" %>
-</p>
-  
+<% provide :title, t(".title") %>
+<div class="center jumbotron">
+<h1><%= t ".title4" %></h1>
+<h2>
+  <%= t ".title2" %> 
+  <%= link_to t(".title"), "http://www.railstutorial.org/book" %> <%= t ".title3" %>
+</h2>
+ <%= link_to t(".title5"), "#", class: "btn btn-lg btn-primary" %>
+</div>
+
+<%= link_to image_tag("images.jpeg", alt: "Rails logo"),
+            "http://rubyonrails.org/" %>
+ 
