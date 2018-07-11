@@ -1,0 +1,5 @@
+maximum:
+  length_email: 255
+  length_name: 50
+minimum:
+  length_pass: 6
