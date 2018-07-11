@@ -1,7 +1,8 @@
 vi:
-  title: "Ứng dụng mẫu hướng dẫn Ruby on Rails"     
+  title: "Ứng dụng mẫu hướng dẫn Ruby on Rails"
+  title1: "Email / mật khẩu không hợp lệ"
   static_pages:
-    about: 
+    about:
       title: "Khai Quat"
       title1: "Ruby on Rails Huong Dan"
       title2: "la mot"
@@ -17,9 +18,9 @@ vi:
       title2: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
       title3: "Phần trợ giúp Hướng dẫn Rails"
       title4: "Chào mừng bạn đến với Sample App"
-      title5: "Đăng nhập"
+      title5: "Đăng ký"
     help:
-      title: "Tro Giup" 
+      title: "Tro Giup"
       title2: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
       title3: "Phần trợ giúp Hướng dẫn Rails"
       title4: "Để được trợ giúp về ứng dụng mẫu này, hãy xem"
@@ -28,16 +29,27 @@ vi:
       title: "Liên hệ"
       title1: "Liên hệ với Ruby on Rails Tutorial về ứng dụng mẫu tại"
       title2: "Trang lien lac"
-  users:  
+  users:
     new:
-      title: "Dang Nhap"
+      title: "Đăng Nhập"
       title1: "Đây sẽ là trang đăng ký cho người dùng mới."
+      title3: "Tạo tài khoản"
+      title4: "Ten"
+      title5: "E-mail"
+      title6: "Mat khau"
   layouts:
     header:
       title: "Trang Chủ "
       title1: "Trợ Giúp"
       title2: "Đăng Nhập"
+      title3: "Sample App"
     footer:
       title: "Khái quát"
       title1: "Liên hệ"
       title2: "Tin tức"
+  sessions:
+    new:
+      title: "Đăng nhập"
+      title1: "Đăng ký ngay"
+      title2: "Người dùng mới?"
+
