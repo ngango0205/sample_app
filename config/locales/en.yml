@@ -47,6 +47,11 @@ en:
       title1: "Help"
       title2: "Log in"
       title3: "Sample App"
+      title4: "User"
+      title5: "Profile"
+      title6: "Settings"
+      title7: "Logout"
+      title8: "Accout"
     footer:
       title: "About"
       title1: "Contact"
@@ -57,3 +62,4 @@ en:
       title: "Log In"
       title1: " Sign Up Now"
       title2: "New User?"
+      title3: "Remember me on this computer"
