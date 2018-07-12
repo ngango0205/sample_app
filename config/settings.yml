@@ -3,3 +3,5 @@ maximum:
   length_name: 50
 minimum:
   length_pass: 6
+size:
+  avar_size: 80
