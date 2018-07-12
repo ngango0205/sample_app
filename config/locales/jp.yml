@@ -28,7 +28,7 @@ jp:
     contact:
       title: "連絡先"
       title1: "サンプルアプリケーションについてのRuby on Railsチュートリアルには"
-      title2: "Contact Page"
+      title2: "コンタクトページ"
   users:
     new:
       title: "サインアップ"
@@ -40,17 +40,17 @@ jp:
       title1: "ヘルプ"
       title2: "ログイン"
       title3: "サンプルアプリ"
+      title4: "ユーザー"
+      title5: "プロフィール"
+      title6: "セッティング"
+      title7: "ログアウト"
+      title8: "アカウント"
     footer:
       title: "アバウト"
       title1: "コンタクト"
       title2: "ニュース"
-<<<<<<< HEAD
-
   sessions:
     new:
       title: "ログイン"
       title1: "今すぐサインアップ"
       title2: "新しいユーザー？"
-
-=======
->>>>>>> chap7
