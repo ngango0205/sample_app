@@ -1,7 +1,8 @@
 jp:
-  title: "チュートリアルサンプルアプリケーション"          
+  title: "チュートリアルサンプルアプリケーション"
+  title1: "無効なメール/パスワードの組み合わせ"
   static_pages:
-    about: 
+    about:
       title: "アバウト"
       title1: "Ruby on Rails Tutorial"
       title2: "は"
@@ -17,27 +18,36 @@ jp:
       title2: "そして"
       title3: "スクリーンキャストシリーズ"
       title4: "サンプルアプリケーションへようこそ"
-      title5: "スクリ"
+      title5: "サインアップ"
     help:
-      title: "ヘルプ" 
+      title: "ヘルプ"
       title2: "は"
       title3: "本"
       title4: "そして"
       title5: "スクリーンキャストシリーズ"
-    contact: 
+    contact:
       title: "連絡先"
       title1: "サンプルアプリケーションについてのRuby on Railsチュートリアルには"
       title2: "Contact Page"
   users:
-    new:    
+    new:
       title: "サインアップ"
       title1: "これは新規ユーザーのサインアップページになります。"
+      title3: "アカウントを作る"
   layouts:
     header:
       title: "ホ ー ム"
       title1: "ヘルプ"
       title2: "ログイン"
+      title3: "サンプルアプリ"
     footer:
       title: "アバウト"
       title1: "コンタクト"
-      title2: "ニュース" 
+      title2: "ニュース"
+
+  sessions:
+    new:
+      title: "ログイン"
+      title1: "今すぐサインアップ"
+      title2: "新しいユーザー？"
+

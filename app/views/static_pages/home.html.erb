@@ -2,12 +2,12 @@
 <div class="center jumbotron">
 <h1><%= t ".title4" %></h1>
 <h2>
-  <%= t ".title2" %> 
+  <%= t ".title2" %>
   <%= link_to t(".title"), "http://www.railstutorial.org/book" %> <%= t ".title3" %>
 </h2>
- <%= link_to t(".title5"), "#", class: "btn btn-lg btn-primary" %>
+ <%= link_to t(".title5"), signup_path, class: "btn btn-lg btn-primary" %>
 </div>
 
 <%= link_to image_tag("images.jpeg", alt: "Rails logo"),
             "http://rubyonrails.org/" %>
- 
+

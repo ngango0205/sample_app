@@ -1,7 +1,8 @@
 en:
   title: "Ruby on Rails Tutorial Sample App"
+  title1: "Invalid email/password combination"
   static_pages:
-    about: 
+    about:
       title: "About"
       title1: "Ruby on Rails Tutorial"
       title2: "is a"
@@ -12,16 +13,16 @@ en:
       title7: "Ruby on Rails"
       title8: "This is the sample application for the tutorial."
       title9: "The"
-      
+
     home:
       title: "Home"
       title2: "This is the home page for the"
       title3: "sample application."
       title4: "Welcome to Sample App"
-      title5: "Link to"
+      title5: "Sign Up"
 
     help:
-      title: "Help" 
+      title: "Help"
       title2: "is a"
       title3: "book"
       title4: "and"
@@ -30,18 +31,29 @@ en:
       title: "Contact"
       title1: "Contact the Ruby on Rails Tutorial about the sample app at the"
       title2: "Contact Page"
-  
+
   users:
     new:
       title: "Signup"
       title1: "This will be a signup page for new users."
+      title3: "Create my accout"
+      title4: "Name"
+      title5: "Email"
+      title6: "Password"
 
   layouts:
     header:
       title: "Home"
       title1: "Help"
-      title2: "Log in" 
+      title2: "Log in"
+      title3: "Sample App"
     footer:
       title: "About"
       title1: "Contact"
       title2: "News"
+
+  sessions:
+    new:
+      title: "Log In"
+      title1: " Sign Up Now"
+      title2: "New User?"
