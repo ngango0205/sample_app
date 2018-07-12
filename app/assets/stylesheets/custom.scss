@@ -114,10 +114,10 @@ footer ul li {
 }
 
 aside {
-  section..user_info {
-    margin-top: 20px;
-  }
   section {
+    .user_info {
+      margin-top: 20px;
+    }
     padding: 10px 0;
     margin-top: 20px;
     &:first-child {

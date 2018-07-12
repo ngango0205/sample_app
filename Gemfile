@@ -17,6 +17,7 @@ gem "pry"
 gem "coffee-rails", "~> 4.2"
 gem "config"
 gem "jbuilder", "~> 2.5"
+gem "jquery-rails", "~> 4.3", ">= 4.3.1"
 gem "turbolinks", "~> 5"
 
 group :development, :test do
