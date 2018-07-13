@@ -1,6 +1,9 @@
 vi:
   title: "Ứng dụng mẫu hướng dẫn Ruby on Rails"
   title1: "Email / mật khẩu không hợp lệ"
+  title2: "Vui lòng hãy đăng nhập"
+  title3: "Đã xóa người dùng"
+  title4: "User Updated"
   static_pages:
     about:
       title: "Khai Quat"
@@ -37,6 +40,14 @@ vi:
       title4: "Ten"
       title5: "E-mail"
       title6: "Mat khau"
+    edit:
+      title: "Người dùng biên tập"
+      title1: "Lưu lại"
+    user:
+      title: "Bạn chắc chắn?"
+      title1: "Xóa bỏ"
+    index:
+      title: "Tất cả người dùng"
   layouts:
     header:
       title: "Trang Chủ "

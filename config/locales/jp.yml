@@ -1,6 +1,9 @@
 jp:
   title: "チュートリアルサンプルアプリケーション"
   title1: "無効なメール/パスワードの組み合わせ"
+  title2: "ログインしてください"
+  title3: "ユーザーが削除された"
+  title4: "User Updated"
   static_pages:
     about:
       title: "アバウト"
@@ -34,6 +37,14 @@ jp:
       title: "サインアップ"
       title1: "これは新規ユーザーのサインアップページになります。"
       title3: "アカウントを作る"
+    edit:
+      title: "ユーザーを編集する"
+      title1: "セーブ"
+    user:
+      title: "確信してるの？"
+      title1: "デリート"
+    index:
+      title: "すべてのユーザー"
   layouts:
     header:
       title: "ホ ー ム"

@@ -1,6 +1,9 @@
 en:
   title: "Ruby on Rails Tutorial Sample App"
   title1: "Invalid email/password combination"
+  title2: "Please Log in"
+  title3: "User deleted"
+  title4: "User Updated"
   static_pages:
     about:
       title: "About"
@@ -40,7 +43,14 @@ en:
       title4: "Name"
       title5: "Email"
       title6: "Password"
-
+    edit:
+      title: "Edit user"
+      title1: "Save"
+    user:
+      title: "You sure?"
+      title1: "delete"
+    index:
+      title: "All users"
   layouts:
     header:
       title: "Home"
