@@ -4,6 +4,12 @@ jp:
   title2: "ログインしてください"
   title3: "ユーザーが削除された"
   title4: "User Updated"
+  title5: "Please check your email to activate your account."
+  title6: "Account activated!"
+  title7: "Invalid activation link"
+  title8: "Account not activated. Check your email for the activation link."
+  title9: "Account activation"
+  title10: "User not found"
   static_pages:
     about:
       title: "アバウト"

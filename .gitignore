@@ -31,11 +31,8 @@
 /config/credentials.yml.enc
 /config/database.yml
 /config/secrets.yml
+/config/application.yml
 /test
-config/settings.local.yml
-config/settings/*.local.yml
-config/environments/*.local.yml
-
 config/settings.local.yml
 config/settings/*.local.yml
 config/environments/*.local.yml
