@@ -5,3 +5,5 @@ minimum:
   length_pass: 6
 size:
   avar_size: 80
+page:
+  per_page: 5
