@@ -3,13 +3,19 @@ jp:
   title1: "無効なメール/パスワードの組み合わせ"
   title2: "ログインしてください"
   title3: "ユーザーが削除された"
-  title4: "User Updated"
-  title5: "Please check your email to activate your account."
-  title6: "Account activated!"
-  title7: "Invalid activation link"
-  title8: "Account not activated. Check your email for the activation link."
-  title9: "Account activation"
-  title10: "User not found"
+  title4: "「ユーザーの更新」"
+  title5: "アカウントを有効にするためにメールをチェックしてください。"
+  title6: "「アカウントが有効になりました！」"
+  title7: "「無効なアクティベーションリンク」"
+  title8: "アカウントが有効になっていません。有効化のリンクをメールで確認してください。"
+  title9: "アカウントの有効化"
+  title10: "ユーザーが見つかりません"
+  email_sent: "パスワードリセットの指示が送信された電子メール"
+  email_notfound: "メールアドレスが見つかりません"
+  reset_pass: "パスワードのリセット"
+  pass_reseted: "パスワードがリセットされました"
+  pass_expried: "パスワードの期限が切れました"
+  errors_empty: "Can not empty"
   static_pages:
     about:
       title: "アバウト"
@@ -72,3 +78,20 @@ jp:
       title1: "今すぐサインアップ"
       title2: "新しいユーザー？"
       title3: "このコンピュータで私を覚えている"
+  password_resets:
+    new:
+      title: "Forgot password"
+      submit: "Submit"
+    edit:
+      reset_pass: "Reset Password"
+      update_pass: "Update Password"
+  user_mailer:
+    account_activation:
+      title1: "Activate"
+      title2: "Welcome to the Sample App! Click on the link below to activate your account:"
+    password_reset:
+      reset_pass: "Password reset"
+      link: "To reset your password click the link below"
+      chuy: "This link will expire in two hours."
+      notice: "If you did not request your password to be reset, please ignore this email and
+              your password will stay as it is."

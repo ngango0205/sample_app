@@ -58,7 +58,7 @@ class UsersController < ApplicationController
     params.require(:user).permit :name, :email, :password, :password_confirmation
   end
 
-   def find_user
+  def find_user
     @user = User.find_by id: params[:id]
     return if @user
     flash[:danger] = t "title10"
