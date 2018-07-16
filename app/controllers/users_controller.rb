@@ -6,7 +6,7 @@ class UsersController < ApplicationController
 
   def index
     @users = User.where(activated: true).page(params[:page])
-                 .per(Settings.page.per_page)
+    .per(Settings.page.per_page)
   end
 
   def new
@@ -69,10 +69,10 @@ class UsersController < ApplicationController
   end
 
   def logged_in_user
-      unless logged_in?
-        flash[:danger] = t "title2"
-        redirect_to login_url
-      end
+    unless logged_in?
+      flash[:danger] = t "title2"
+      redirect_to login_url
+    end
   end
 
   def correct_user
@@ -84,4 +84,3 @@ class UsersController < ApplicationController
     redirect_to root_url unless current_user.admin?
   end
 end
-
