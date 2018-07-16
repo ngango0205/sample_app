@@ -16,6 +16,10 @@ vi:
   pass_reseted: "Mật khẩu đã được đặt lại"
   pass_expried: "Đặt lại mật khẩu đã hết hạn"
   errors_empty: "Can not empty"
+  max_size: "should be less than 5MB"
+  micropost_created: "Micropost created!"
+  micropost_deleted: "Micropost deleted"
+  login_please: "Please log in."
   static_pages:
     about:
       title: "Khai Quat"
@@ -98,5 +102,19 @@ vi:
       chuy: "This link will expire in two hours."
       notice: "If you did not request your password to be reset, please ignore this email and
               your password will stay as it is."
-
-
+  shared:
+    error_messages:
+      form: "The form contains"
+      maximun_size: "Maximum file size is 5MB. Please choose a smaller file."
+    micropost_form:
+      post_submit: "Post"
+      place_holder: "Compose new micropost..."
+    user_info:
+      view_my_pf: "view my profile"
+      microposts: "micropost"
+  microposts:
+    micropost:
+      post: "Posted"
+      ago: "ago."
+      delete: "delete"
+      confirm: "You sure?"

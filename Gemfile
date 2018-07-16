@@ -11,6 +11,8 @@ gem "bcrypt", "3.1.12"
 gem "figaro"
 gem "sidekiq"
 gem "faker", "~> 1.6", ">= 1.6.6"
+gem "carrierwave", "1.2.2"
+gem "mini_magick", "4.7.0"
 gem "bootstrap-sass", "3.3.7"
 gem "kaminari"
 gem "bootstrap-kaminari-views"
@@ -39,6 +41,7 @@ group :development do
   gem "spring"
   gem "spring-watcher-listen", "~> 2.0.0"
   gem "web-console", ">= 3.3.0"
+  gem "fog", "1.42"
 end
 
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]

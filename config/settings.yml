@@ -1,6 +1,7 @@
 maximum:
   length_email: 255
   length_name: 50
+  length_content: 140
 minimum:
   length_pass: 6
 size:
@@ -8,3 +9,4 @@ size:
 page:
   per_page: 5
 expired_time: <%= 2.hours.ago %>
+maximum_megabytes: <%= 5.megabytes %>
