@@ -10,6 +10,12 @@ en:
   title8: "Account not activated. Check your email for the activation link."
   title9: "Account activation"
   title10: "User not found"
+  email_send: "Email sent with password reset instructions"
+  email_notfound: "Email address not found"
+  reset_pass: "Password reset"
+  pass_reseted: "Password has been reset."
+  pass_expried: "Password reset has expired."
+  errors_empty: "Can not empty"
   static_pages:
     about:
       title: "About"
@@ -79,7 +85,22 @@ en:
       title1: " Sign Up Now"
       title2: "New User?"
       title3: "Remember me on this computer"
+      forgot_pass: "(Forgot Password)"
+  password_resets:
+    new:
+      title: "Forgot password"
+      submit: "Submit"
+    edit:
+      reset_pass: "Reset Password"
+      update_pass: "Update Password"
   user_mailer:
     account_activation:
-    title1: "Activate"
-    title2: "Welcome to the Sample App! Click on the link below to activate your account:"
+      title1: "Activate"
+      title2: "Welcome to the Sample App! Click on the link below to activate your account:"
+    password_reset:
+      reset_pass: "Password reset"
+      link: "To reset your password click the link below"
+      chuy: "This link will expire in two hours."
+      notice: "If you did not request your password to be reset, please ignore this email and
+              your password will stay as it is."
+

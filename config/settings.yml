@@ -7,3 +7,4 @@ size:
   avar_size: 80
 page:
   per_page: 5
+expired_time: <%= 2.hours.ago %>
