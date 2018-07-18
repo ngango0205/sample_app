@@ -10,6 +10,7 @@ en:
   title8: "Account not activated. Check your email for the activation link."
   title9: "Account activation"
   title10: "User not found"
+  title11: "Can't delete mocropots"
   email_send: "Email sent with password reset instructions"
   email_notfound: "Email address not found"
   reset_pass: "Password reset"
