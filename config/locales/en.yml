@@ -86,7 +86,9 @@ en:
       title: "About"
       title1: "Contact"
       title2: "News"
-
+    show_follow:
+      follow: "Following"
+      follower: "Follower"
   sessions:
     new:
       title: "Log In"

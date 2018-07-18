@@ -1,12 +1,12 @@
 class UsersController < ApplicationController
-  before_action :find_user, only: [:show, :edit, :update]
+  before_action :find_user, only: [:show, :edit, :update, :following]
   before_action :logged_in_user, only: [:index, :edit, :update, :show, :destroy]
   before_action :correct_user, only: [:edit, :update]
   before_action :admin_user, only: :destroy
 
   def index
     @users = User.where(activated: true).page(params[:page])
-    .per(Settings.page.per_page)
+    .per Settings.page.per_page
   end
 
   def new
@@ -53,6 +53,16 @@ class UsersController < ApplicationController
       flash[:warning] = t "title2"
       redirect_to root_path
     end
+  end
+
+  def following
+    @users = @user.following.page(params[:page])
+    render :show_follow
+  end
+
+  def followers
+    @users = @user.followers.page(params[:page])
+    render :show_follow
   end
 
   private
